@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  main.cpp
+d:\study\globallogic\homework\my heap memory\myheap\myheap\myheap.h(152): warning C4018: '<': signed/unsigned mismatch
+d:\study\globallogic\homework\my heap memory\myheap\myheap\myheap.h(157): warning C4018: '<': signed/unsigned mismatch
+  myheap.vcxproj -> D:\Study\GlobalLogic\Homework\My Heap Memory\myheap\Debug\myheap.exe
+  myheap.vcxproj -> D:\Study\GlobalLogic\Homework\My Heap Memory\myheap\Debug\myheap.pdb (Partial PDB)
